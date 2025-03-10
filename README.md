@@ -3,8 +3,8 @@
 **`旭 - Asahi (Developer/Ăn không ngồi rồi)`**
 
 - 🔭 I'm currently a student at FPT University
-- 💁🏻: I am a persion passion for programming and exploring different cultures through travel.
-- 🪴: My goal is to become a skilled full-stack developer while learning Japanese, aiming to live and work in Japan. Every project I work on is a step toward improving my skills, from planning and coding to solving real-world problems. Just like how I learn programming, I also learn Japanese with effort and patience, step by step moving closer to my dream of living in Japan.
+- 💁🏻 I am passionate about programming and love exploring different cultures through travel.
+- 🪴 My goal is to become a skilled full-stack developer while learning Japanese, with the aspiration of living and working in Japan. Every project I work on is a step toward improving my skills—from planning and coding to solving real-world problems. Just as I approach programming, I also learn Japanese with dedication and patience, steadily moving closer to my dream of living in Japan.
 
 ---
 ### 🧰 Languages and Tools
