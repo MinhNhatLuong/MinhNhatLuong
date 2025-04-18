@@ -1,4 +1,4 @@
-# 👨🏻‍🦼‍➡️ Minh Nhật
+# 🐔 Minh Nhat
 
 **`朝日 - Asahi (Developer/Ăn không ngồi rồi)`**
 
