@@ -1,6 +1,6 @@
 # 🐔 Minh Nhat
 
-**` - Asahi (Developer/Ăn không ngồi rồi)`**
+**`朝日 - Asahi (Developer/Ăn không ngồi rồi)`**
 
 - 🔭 I'm currently a student at FPT University
 - 💁🏻 I am passionate about programming and love exploring different cultures through travel.
