@@ -2,7 +2,7 @@
 
 **`朝日 - Asahi (Developer)`**
 
-- 🔭 I'm currently a student at FPT University
+- 🔭 I'm currently a student at FPT University.
 - 💁🏻 I am passionate about programming and love exploring different cultures through travel.
 - 🪴 My goal is to become a skilled full-stack developer while learning Japanese, with the aspiration of living and working in Japan. Every project I work on is a step toward improving my skills—from planning and coding to solving real-world problems. Just as I approach programming, I also learn Japanese with dedication and patience, steadily moving closer to my dream of living in Japan.
 
