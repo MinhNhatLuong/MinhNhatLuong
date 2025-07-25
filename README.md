@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nhat, but you can call me 朝日 - Asahi and I'm a developer, from Vietnam</p>
+<p align="left">My name is <b>Nhat</b>, but you can call me <b>朝日 - Asahi</b> and I'm a developer, from Vietnam</p>
 
 ###
 
